@@ -38,6 +38,9 @@
 
 `pip install pygame`
 
+> **Note**
+> The executable was compiled using `Pyinstaller`
+
 ## Copyright
 
 All rights reserved to Bropocalypse Team.
