@@ -3,7 +3,7 @@
   <br>
   <img src="https://w7.pngwing.com/pngs/721/863/png-transparent-video-game-game-boy-retrogaming-game-controller-video-games-game-electronics-retro.png" width="200">
   <br>
-  Docai
+  MeaW
   <br>
 </h1>
 
@@ -24,9 +24,6 @@
   <a href="#Copyright">Copyright</a>
 </p>
 
-<p align="center">
-<a href=""><img src="https://w7.pngwing.com/pngs/551/359/png-transparent-roll-face-internet-troll-trollface-u-mad-desktop-rage-comic-troll-miscellaneous-face-monochrome.png"></a>
-</p>
 
 ## Key Features
 
